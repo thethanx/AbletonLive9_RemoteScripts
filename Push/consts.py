@@ -196,6 +196,27 @@ MUSICAL_MODES = ['Major',
   5,
   6,
   8,
+  10]
+ 'HandpanEscale',
+ [0,
+  2,
+  3,
+  7,
+  8,
+  10]
+'HandpanCshp1',
+ [0,
+  4,
+  5,
+  7,
+  10]
+ 'HandpanCshp2',
+ [0,
+  2,
+  3,
+  4,
+  5,
+  7,
   10]]
 MIN_OFF_THRESHOLD = 10
 MAX_OFF_THRESHOLD = 370
